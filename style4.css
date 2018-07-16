@@ -1,0 +1,20 @@
+h1{
+  color:lime;
+}
+.jumbotron {
+min-height: 900px;
+background-image: url('project images/shark.image1.jpg');
+background-size: cover;
+background-attachment: fixed;
+border:soild 5px black;
+backface-visibility:20% hidden;
+ }
+ ol li{
+   font-size:40px;
+ }
+p{
+  color:gold;
+}
+ol {
+  margin:10px;
+}

@@ -1,0 +1,16 @@
+h1{
+  color:red;
+}
+.jumbotron {
+min-height: 900px;
+background-image: url('project images/beach2.jpg');
+background-size: cover;
+background-attachment: fixed;
+border:soild 5px black;
+backface-visibility:20% hidden;
+ }
+ table, tr, td {
+    color:red;
+    font-size: 45px;
+    font-style: oblique;
+}

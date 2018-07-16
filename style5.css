@@ -1,0 +1,16 @@
+h1{
+font-style: impact;
+
+}
+.jumbotron {
+min-height: 700px;
+background-image: url('project images/wave.jpg');
+background-size: contain;
+background-attachment: fixed;
+border:soild 5px black;
+backface-visibility:20% hidden;
+}
+li{
+  font-size: 35px;
+  color:fuchsia;
+}

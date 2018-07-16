@@ -1,0 +1,58 @@
+h1{
+  font-style: italic;
+  color:blue;
+font-size: bold 20px;
+}
+div #nav li{
+  display: inline-block;
+  height: 45px;
+  background-color:silver;
+  border:solid 3px black;
+  color:black;
+  font-style:italic;
+}
+#nav li {
+  border:solid 1px black;
+  font-size: 35px
+}
+.jumbotron {
+min-height: 900px;
+background-image: url('project images/shark2.jpg');
+background-size: cover;
+background-attachment: fixed;
+border:soild 5px black;
+backface-visibility:20% hidden;
+ }
+
+h2{
+  font-size:45px;
+  color: lime;
+}
+h3{
+  font-style: impact;
+  color : black;
+}
+p{
+  font-style: garamond;
+  color:maroon;
+  font-size: 20px;
+}
+#social-button {
+  color: white;
+}
+.btn-twitter {
+  background-color: #00acee;o
+  border-color: #009ad5;
+}
+.btn-facebook{
+  background-color: #4868ac;
+  border-color: #314776;
+}
+.btn-pinterest {
+  background-color: #b62f26;
+  border-color: #b62f26;
+}
+div #explanation p{
+border: soild black;
+
+}
